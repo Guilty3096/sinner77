@@ -231,6 +231,7 @@ function create_config( )
      "ctrl",
      "plugins",
      "poker",
+     "google",
      "version",
      "addplug",
      "help",
